@@ -1,0 +1,7 @@
+<div>
+    <img ng-src="{{c.img}}" alt="" /> {{c.title}} {{c.date}}
+        <a ng-hide="c.isFavorite" ng-click="star(c)">STAR!</a>
+        <a ng-show="c.isFavorite" ng-click="unstar(c)">UNSTAR!</a>
+        <a ng-click="toggleDetails(c)">Details</a>
+    <div ng-if="showDetailsFor[c.href]">{{c.content}}</div>
+</div>

@@ -10,9 +10,17 @@
     <section ng-controller="AppController">
         Search: <input ng-model="search" />
 
+        <div><a ng-click="orderBy('date')">Date</a> <a ng-click="orderBy('title')">Title</a></div>
+
         <ul>
-            <li ng-repeat="movie in movies | filter:search | orderBy:name">{{movie.name}}</li>
+            <li ng-repeat="c in favorites">{{c.title}}
+                <a ng-click="unstar(c)">UNSTAR!</a>
+            </li>
         </ul>
+
+        <contribution ng-repeat="c in contributions | filter: search | orderBy: order.property: order.reverse"></contribution>
+
+
     </section>
 
     <script src="app.js"></script>
