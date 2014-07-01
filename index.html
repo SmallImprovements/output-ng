@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script charset="utf-8" src="bower_components/angular/angular.js"></script>
+    <title>OutputDD</title>
+</head>
+<body ng-app="app">
+
+    <section ng-controller="AppController">
+        Search: <input ng-model="search" />
+
+        <ul>
+            <li ng-repeat="movie in movies | filter:search | orderBy:name">{{movie.name}}</li>
+        </ul>
+    </section>
+
+    <script src="app.js"></script>
+</body>
+</html>
