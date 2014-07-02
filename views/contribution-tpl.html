@@ -3,9 +3,11 @@
     <div class="contrib-meta">
         <a ng-click="toggleDetails(c)" class="contrib-details-toggle" >
             <i ng-class="{'fa-eye': !showDetailsFor[c.href], 'fa-eye-slash': showDetailsFor[c.href]}" class="fa"></i></a>
+
         <div class="contrib-date">
             {{c.date}}
         </div>
+
         <div class="contrib-star">
             <a ng-hide="c.isFavorite" ng-click="star(c)"><i class="fa fa-star-o"></i></a>
             <a ng-show="c.isFavorite" ng-click="unstar(c)"><i class="fa fa-star"></i></a>
@@ -15,17 +17,11 @@
 
     <div class="contrib-preview">
         <img ng-src="{{c.img}}" alt="" />
-        <h4>{{c.title}}</h4>
+        <h4>c.title</h4>
     </div>
 
     <div ng-if="showDetailsFor[c.href]" class="contrib-details">
-        <ul>
-            <li>Participatns: <span>{{c.participants.join(', ')}}</span></li>
-            <li>Supervisors: <span>{{c.supervisors.join(', ')}}</span></li>
-            <li>Institute: {{c.institute}}</li>
-            <li>Link: <a ng-href="{{c.href}}">{{c.href}}</a></li>
-        </ul>
-        Content: <br>
+        Content:
         <p>
             {{c.content}}
         </p>

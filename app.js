@@ -13,16 +13,12 @@
         $scope.order = {};
 
 
-        $scope.star = function (contribution) {
-            contribution.isFavorite = true;
-        };
-
         $scope.unstar = function (contribution) {
             contribution.isFavorite = false;
         }
 
         $scope.toggleDetails = function (contrib) {
-            $scope.showDetailsFor[contrib.href] = !$scope.showDetailsFor[contrib.href];
+            $scope.showDetailsFor[contrib.href] = true;
         };
 
         $scope.orderBy = function (property) {
