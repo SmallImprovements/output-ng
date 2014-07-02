@@ -9,18 +9,15 @@
             $scope.contributions = contributions;
         });
 
-        $scope.favorites = [];
         $scope.showDetailsFor = {};
         $scope.order = {};
 
 
         $scope.star = function (contribution) {
-            $scope.favorites.push(contribution);
             contribution.isFavorite = true;
         };
 
         $scope.unstar = function (contribution) {
-            $scope.favorites.splice($scope.favorites.indexOf(contribution), 1);
             contribution.isFavorite = false;
         }
 
@@ -34,25 +31,22 @@
         };
 
         $scope.getContributions = function () {
-            if ($scope.showOnlyFavorites) {
-                return $scope.favorites;
-            }
-            return $scope.contributions;
-        }
+            return $scope.showOnlyFavorites ? $scope.getFavorites() : $scope.contributions;
+        };
+
+        $scope.getFavorites = function () {
+            return $scope.contributions.filter(function (c) {
+                return c.isFavorite;
+            });
+        };
 
     });
-
-
 
 
     module.directive('contribution', function () {
         return {
             restrict: 'E',
-            replace: true,
-            templateUrl: 'views/contribution-tpl.html',
-            link : function (scope, el, attrs) {
-
-            }
+            templateUrl: 'views/contribution-tpl.html'
         };
     });
 
