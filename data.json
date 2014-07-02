@@ -28,7 +28,7 @@
       "Tenshi Hara"
     ],
     "content": "Ortsabhängige Dienste basierend auf GPS und Kartendaten sind heute weithin verfügbar. Dies gilt aber nur für den Außenbereich, da GPS in Gebäuden nicht arbeitet und Kartenmaterial auf den Außenbereich beschränkt ist. Für den Innenbereich wurden in vielen Forschungsprojekten bereits Lösungen entwickelt. Diese sind aber überwiegend proprietär und auf wenige Gebäude beschränkt. Im Projekt MapBiquitous wird ein integriertes System für ortsabhängige Dienste im Innen- und Außenbereich entwickelt. Es basiert auf einer dezentralen Infrastruktur von Gebäudeservern, die Informationen über die Gebäudegeometrie sowie für die Navigation und Positionsbestimmung bereitstellen. Gebäudeserver werden dynamisch gesucht und eingebunden wobei die bereitgestellten Gebäudeinformationen nahtlos mit den Diensten für den Außenbereich verknüpft werden. Die Verknüpfung erfolgt durch die MapBiquitous App, die derzeit für iOS und Android verfügbar ist.\n",
-    "institute": "Institut:   System Architektur",
+    "institute": "System Architektur",
     "supervisors": [
       "Thomas Springer"
     ]
@@ -58,7 +58,7 @@
       "Pražak"
     ],
     "content": "RFID ist eine Technologie zur Objektidentifizierung. Die Arbeit befasst sich mit der Beschreibung einzelner Komponenten und deren Nutzung im öffentlichen Verkehr. Das Ergebnis ist ein System “Vehmon” – zum Verfolgen von gestohlenen Fahrzeugen.\n",
-    "institute": "Institut:   UJEP in Ústí nad Labem",
+    "institute": "UJEP in Ústí nad Labem",
     "supervisors": [
       "Mgr. Koluch"
     ]
@@ -74,7 +74,7 @@
       "Alexander Krull"
     ],
     "content": "Das Projekt VICCI betrachtet sogenannte “Cyber-physical Systems” (CPS),\nkomplexe, eingebette Systeme, welche durch Sensoren und Roboter die\nvirtuelle und die physische Welt hochgradig miteinander verbinden (vgl.\nInternet der Dinge). Unser Roboter kann bei der Output\ninteraktiv selbst erlebt werden.\n",
-    "institute": "Institut:   SMT",
+    "institute": "SMT",
     "supervisors": [
       "Stefan Gumhold"
     ]
@@ -106,7 +106,7 @@
       "Petrašek"
     ],
     "content": "Der Beitrag ist auf die Hard- und Softwarerealisierung eines Robots (Automobilmodell) eingerichtet. Der Hardwareteil beschäftigt sich mit Sensoreinbau innerhalb eines PKW´s für die Beschleunigungsaufnahmen, Entfernungsdetektion von Hindernissen und eventuellem Ausweichen. Der Softwareteil ermöglicht danach die Datenübertragung von Sensoren in die Datenbasis, derer Bearbeitung, PKW Steuerung und Fahrtvisualisierung.\n",
-    "institute": "Institut:   UJEP in Ústí nad Labem",
+    "institute": "UJEP in Ústí nad Labem",
     "supervisors": [
       "Mgr. Haberzettl"
     ]
@@ -123,7 +123,7 @@
       "Joščák"
     ],
     "content": "Der Beitrag befasst sich mit dem energetischem Management eines PKW´s durch hybride Petri Netze. Die Simulation beobachtet den Energieverbrauch der Batterie während verschiedener Fahrtsituationen und eventueller Schaltung der Leuchten, Klimaanlage, Radios usw. Gleichzeitig kann man die Batterieladung simulieren. Ergebnisse dienen einer optimalen Einstellung der einzelnen Parameter beim Eingang und anschliessend der Feststellung, wie weit der E-PKW fahren kann.\n",
-    "institute": "Institut:   UJEP in Ústí nad Labem",
+    "institute": "UJEP in Ústí nad Labem",
     "supervisors": [
       "Doz. Mashkov",
       "Ing. Barilla"
@@ -142,7 +142,7 @@
       "Sebastian Herrlich"
     ],
     "content": "Vorlesungen sind nach wie vor eine wichtige Lehrform an deutschen Hochschulen. Sie haben das Ziel, Studierenden das Expertenwissen der Dozenten strukturiert zu präsentieren. Kritikpunkte sind seit langem, dass diese Lehrform zu wenige lernförderliche Interaktionsmöglichkeiten zwischen Lehrenden und Studierenden bietet. Eine praktikable Lösung für diese Problemstellung wurde in einer engen Kooperation der Professur für Rechnernetze der Fakultät Informatik und der Professur für die Psychologie des Lehrens und Lernens der Fachrichtung Psychologie sowie mit aktiver Beteiligung von Studierenden beider Fächer erarbeitet. Ziel ist es, technologiegestützt mehr Interaktivität und Adaptivität in Vorlesungen herzustellen.\nDas neue System bietet den Dozenten die Möglichkeit, in Vorbereitung ihrer Vorlesung Lernaufgaben und Umfragen zu erstellen sowie Nachrichten an Studierende zu generieren. Diese werden dann in Abhängigkeit individueller studentischer Voraussetzungen und Ziele während der Veranstaltung automatisch an mobile Endgeräte wie z.B. Smartphones oder Notebooks der Studierenden gesendet. So haben z.B. Aufgaben, Nachrichten und Umfragen das Ziel, durch informative Rückmeldung zu den gestellten Aufgaben den Verstehensprozess zu unterstützen sowie gezielt die Aufmerksamkeit auf wichtige Aussagen in der Vorlesung zu lenken. Dabei werden explizit auch unterschiedliche Ziele der Teilnehmenden berücksichtigt. Die sechs Kernfunktionen des Tools wurden aus psychologischen Modellen des selbstregulierten Lernens abgeleitet. Mit diesen zusätzlichen Funktionalitäten geht „Auditorium Mobile Classroom“ weit über die gängigen Audience-Response-Systeme hinaus.  Das Projekt wurde mit dem Lehrpreis der TU Dresden 2013 ausgezeichnet.\n",
-    "institute": "Institut:   Systemarchitektur",
+    "institute": "Systemarchitektur",
     "supervisors": [
       "Prof. Schill"
     ]
@@ -158,7 +158,7 @@
       "Benedikt Nöthen"
     ],
     "content": "Zukünftige mobile Nachrichtensysteme benötigen eine immer größere Flexibilität (Software Defined Radio, SDR) bei steigenden Anforderungen an Energieeffizienz, Datendurchsatz und Latenz.\nDer Tomahawk2 – Chip erlaubt durch sein hocheffizientes Ressourcenmanagement im sog. CoreManager eine dynamische Anpassung an Durchsatz/Leistungsanforderungen der auszuführenden Applikationen. In der Tomahawk2 – Demo wird anhand einer Beispielanwendung mit konstantem Datendurchsatz die Anpassungsfähigkeit der individuellen Takt- und Spannungsdomänen in Abhängigkeit verfügbarer Verarbeitungseinheiten gezeigt, sowie der Einfluss auf den Energieverbrauch dargestellt.\n",
-    "institute": "Institut:   Vodafone Chair Mobile Communications Systems",
+    "institute": "Vodafone Chair Mobile Communications Systems",
     "supervisors": [
       "Prof. Gerhard Fettweis"
     ]
@@ -174,7 +174,7 @@
       "Hermann Hensel"
     ],
     "content": "The 60GHz frequency band provides up to 9GHz of unlicensed bandwidth and is well-suited for wireless short-range interfaces that require data rates of several Gbit/s. One example is a fast wireless data link between two mobile devices such as a digital camera and a laptop PC. For these kinds of applications, the wireless channel is typically a line-of-sight channel. This allows to use a simplified transmission scheme, e.g., without channel equalization, to maximize the achievable data rate while keeping the hardware-effort at a minimum.\nThe presented demonstrator shows the feasibility of such a system design. It realizes an error-free real-time transmission of long data packets at 60GHz with a data rate of multiple Gbit/s. It consists of a transmitter and a receiver, each of which comprises a hybrid 60GHz frontend with highly directional antennas and a digital baseband processor that is implemented on an FPGA platform. The simplified system concept builds on 1-bit data converters at the transmitter and receiver, thus enabling a low-power, low-complexity IC solution in future.\nThe system design is scalable and not limited to the 60GHz frequency band. At higher carrier frequencies, e.g., at 100GHz to 200GHz, larger bandwidth can be used to achieve data rates on the order of hundreds of Gbit/s, using the same system concept. This is in the focus of current applications like wireless board-to-board links in computer racks.\n",
-    "institute": "Institut:   Vodafone Chair Mobile Communications Systems",
+    "institute": "Vodafone Chair Mobile Communications Systems",
     "supervisors": [
       "Prof. Gerhard Fettweis"
     ]
@@ -190,7 +190,7 @@
       "Ainoa Navarro"
     ],
     "content": "Future Wireless Networks generation mobile networks are expected to support a variety of applications and diverse requirements that goes the standard OFDM solutions. Vodafone Chair, an integrant of the Dresden 5G Lab, is conducting investigations into a new modulation scheme termed GFDM (Generalized Frequency Division Multiplexing) and will present a proof-of-concept implementation based on National Instruments’ software defined radio platforms. The setup considers a complete transceiver chain encompassing a SISO link and a channel emulator to allow the investigation of many aspects of future flexible PHY approaches.\n",
-    "institute": "Institut:   Vodafone Chair Mobile Communications Systems",
+    "institute": "Vodafone Chair Mobile Communications Systems",
     "supervisors": [
       "Prof. Gerhard Fettweis"
     ]
@@ -204,7 +204,7 @@
       "Tamara Flemisch"
     ],
     "content": "In der alltäglichen Kommunikation nutzen wir Gesten, um (meist) sprachbegleitend bestimmte Gemütszustände, wie Glücklichsein, Taurigkeit oder Überraschung, sowie auch andere Intentionen zu übermitteln. Auch für Roboter kann diese Art der Kommunikation eine Möglichkeit bieten, seinen Zustand und Intentionen effektiv zu äußern, indem er selbst Gesten nutzt. Wir haben eine Methode entwickelt, um möglichst einfach eine große Spanne an Basisausdrücken erzeugen zu können. Dafür haben wir über 50 alltägliche Gesten analysiert, in insgesamt 6 Kategorien eingeordnet und entsprechend ihrer Ausdrucksstärke sortiert. Mit nur zwei Parametern “Feedback-Kategorie” und “Expressivität” kann somit der humanoide Roboter NAO bei der OUTPUT zum Leben erweckt werden.\n",
-    "institute": "Institut:   Software- und Multimediatechnik",
+    "institute": "Software- und Multimediatechnik",
     "supervisors": [
       "Dipl.-Inf. André Viergutz"
     ]
@@ -269,7 +269,7 @@
       "Stefan Vogt"
     ],
     "content": "Im Komplexpraktikum Kooperative Interaktion mittels Smartphone-Sensoren (KISS)\ndes Lehrstuhles Software Engineering Ubiquitärer Systeme entwickelten Studenten eine spielerische Anwendungen, bei der Smartphones als Controler fungieren. Zur Steuerung der Anwendungen werden die Daten des Bewegungssensors des Smartphone genutzt und über eine Bluetooth-Schnittstelle an die Anwendung übertragen.\n",
-    "institute": "Institut:   Juniorprofessur Software Engineering Ubiquitärer Systeme / Institut für Software und Multimediatechnik",
+    "institute": "Juniorprofessur Software Engineering Ubiquitärer Systeme / Institut für Software und Multimediatechnik",
     "supervisors": [
       "I.Keller",
       "A. Lehmann",
@@ -287,7 +287,7 @@
       "Carsten Rother"
     ],
     "content": "For many years computer vision was dominated by hand-crafted systems. In recent years a lot of effort was put into generating so-called ground truth data – that is data where the system output is known. To achieve this people have invited interactive games; build complex motion capture systems; Amazon has launched a so-called mechanical Turk labelling system; and many engines we written to synthetize data. This large amount of data had a big impact in our field and data-driven matching learning techniques define these days the state of the art for various application domains. After giving a brief history of this trend, I will present some ongoing research projects in that space, and summarize my thoughts on how to make the next step forward.\n",
-    "institute": "Institut:   CVLD",
+    "institute": "CVLD",
     "supervisors": [
       ""
     ]
@@ -315,7 +315,7 @@
       ""
     ],
     "content": "Im Zentrum des Projektes steht ein neuartiger und innovativer Weg der zusätzlichen Wissensvermittlung unter Berücksichtigung von aktuellen Trends am Arbeitsmarkt und neuen Qualifikationsbedürfnissen der Wirtschaft. Ziel des Projektes ist die Entwicklung eines zukunftsfähigen zusätzlichen Qualifikationsangebots, das Studierenden Fertigkeiten im Umgang mit neusten Technologien vermittelt und somit die Arbeitsplatzchancen verbessert.\nIm Sommersemester 2013 stand die Entwicklung interaktiver Installationen im Stadtraum mittels Methoden und Techniken aus der Erzählkunst, dem Interaktionsdesign, der Sensorik und dem Prototyping im Vordergrund.\n",
-    "institute": "Institut:   Professur für Mediengestaltung / Institut für Software und Multimediatechnik",
+    "institute": "Professur für Mediengestaltung / Institut für Software und Multimediatechnik",
     "supervisors": [
       "Brian Eschrich",
       "Deborah Schmidt ",
@@ -333,7 +333,7 @@
       "Lukas Büschel"
     ],
     "content": "In der Zentralbibliothek der SLUB befindet sich das Buchmuseum. Die Schatzkammer im Inneren des Buchmuseums beinhaltet kostbare Ausstellungsstücke, alte einzigartige Handschriften, seltene Drucke und Autographe berühmter Persönlichkeiten.\nDoch zu wenige Besucher wissen, dass es das Buchmuseum überhaupt gibt. Mit der entwickelten Anwendung soll den Besuchern das Museum vorgestellt werden und ihnen Lust gemacht werden, es zu besuchen.\nTauchen Sie mit uns ein in die historischen Schätze des Museums!\n",
-    "institute": "Institut:   Software- und Multimediatechnik",
+    "institute": "Software- und Multimediatechnik",
     "supervisors": [
       "Esther Lapczyna",
       "Grit Koalick"
@@ -350,7 +350,7 @@
       "Jan Schmalfuß-Schwarz"
     ],
     "content": "Das Ziel des Komplexpraktikums Informationsvisualisierung ist die Erstellung einer Anwendung für die Sächsische Staats- und Universitätsbibliothek (SLUB) zum Thema „Veröffentlichung auf Basis von Open Access“, die auf Tablets ausgeführt wird. Open Access bietet Wissenschaftlern einen einfachen Weg, ihre wissenschaftliche Arbeit zu publizieren. Die Applikation soll dabei einem uninformierten Benutzer in mehreren Schritten die wichtigsten Eckdaten von Open Access vermitteln, ihm veranschaulichen, wie die SLUB auf dem Weg zur Veröffentlichung helfen kann und ihn auf die richtigen Ansprechpartner verweisen.\nDie ursprüngliche Idee seitens des Auftraggebers war es, die beiden Wege von OpenAccess durch eine kleine Geschichte zu erklären. Allerdings benötigt diese Charaktere, deren Einführung den Nutzer von den Kerninformationen zu sehr ablenken würde, so dass eine sachliche Beschreibung gewählt wurde. Nach der Zuweisung von Begriffen wie kantig, leise und groß zur SLUB einerseits bzw. modern, geradlinig und leicht zu OpenAccess andererseits, folgte daraus ein visuelles Konzept in Form eines baumartigen Graphen. Obwohl dieses Modell einen guten Gesamtüberblick gewährleistete, erwiesen sich sowohl die Synchronisierung der Geometrie der Knotenpunkte und des Kontextes, als auch der Widerspruch zwischen der einem Graph zugrunde liegenden, freien Navigation (beliebiges Zoomen, Scrollen) und dem streng linearen Ablauf der Wege als Ausschlusskriterien. So wurden im nächsten Konzept aneinander liegende Kacheln entwickelt, die bei Verzweigungen das Fortfahren des Benutzers in verschiedene Richtungen erlaubten. Der Nachteil dieser Variante war der fehlende Überblick über die bereits absolvierten sowie über die noch folgenden Schritte. Daher ging aus den Kacheln eine Treemap hervor, bei der die folgenden Schritte unten und die absolvierten Schritte an den oberen Bildschirmrand angeordnet wurden. Neben der gewonnenen Übersicht war auch die gleichbleibende Bewegungsrichtung eine Verbesserung gegenüber des Kachelmodells. Es hat sich jedoch herausgestellt, dass der vor allem große Navigationsbereich zu Beginn des Weges verwirrend ist und eher Angst vor einer vermeintlich hohen Komplexität des Themas erzeugt.\nDaher entfernte sich das finale Konzept von der Darstellung als Baum hin zu einer rein linearen Anzeige, die die Elemente abhängig von den Nutzerentscheidungen visualisiert. So sieht der Nutzer nur das, was für ihn aktuell relevant ist, ohne durch die weiteren Möglichkeiten abgelenkt zu werden. Zusätzlich wird die Arbeitsaufteilung zwischen SLUB und Nutzer farblich codiert und durch einfache und leicht zugängliche Piktogramme unterstützt.\n",
-    "institute": "Institut:   Institut für Software- und Multimediatechnik",
+    "institute": "Institut für Software- und Multimediatechnik",
     "supervisors": [
       "Esther Lapczyna",
       "Grit Koalick",
@@ -366,7 +366,7 @@
       "Lars Engeln"
     ],
     "content": "Ein „Urknall der Digitalisierung“ ließ die analoge Materie der SLUB zu einem „multimedialem Multiversium“explodieren. Eine „Hybrid-Bibliothek“ entstand, deren schier unendliche  Möglichkeiten erleuchtet werden sollen.\nInnerhalb des Komplexpraktikums „InformationsVisualisierung“ galt diesem Projekt der Veranschaulichung der Dienstleistungen der SLUB.\nDenn nahezu keiner kennt das gesamte Ausmaß der Möglichkeiten. Ein schnelles und einfaches Explorieren des Angebotes ist das Ziel dieser WebApp.\n",
-    "institute": "Institut:   Mediengestaltung",
+    "institute": "Mediengestaltung",
     "supervisors": [
       "Esther Lapczyna",
       "Grit Koalick"
@@ -382,7 +382,7 @@
       "Joseph Spillner"
     ],
     "content": "The next generation cloudfile manager NubiVis is built on top of the ongoing research project NubiSave, that aims to combine distributed storage of files with security and redundancy in order to popularize cloud storage solutions  for enterprises as well as for private persons.\nHaving data stored on multiple storage providers – let it be local hard drives together with remote servers or mobile devices – demands an intuitive way to maintain the content stored, but also to keep track of the different locations, where the data resides and how much redundancy and robustness the current setup has. NubiVis tries to visualize all these aspects in one user centered webinterface. Because of its REST based architecture it will not be limeted to NubiSave, but could be used as a normal semantic filemanager in future, too.\nThe files stored in the cloud can optionally be enriched by semantic data with the help of EXIF tags in photos or ID3 tags in music, or any other kind of parsable information.\n",
-    "institute": "Institut:   Institut für Systemarchitektur",
+    "institute": "Institut für Systemarchitektur",
     "supervisors": [
       "Joseph Spillner"
     ]
@@ -397,7 +397,7 @@
       "Martin Zenker"
     ],
     "content": "Ausgestellt werden zwei interaktive Medienstationen. Diese entstanden in Zusammenarbeit mit den Staatlichen Kunstsammlungen Dresden für die Ausstellung »Nach Ägypten! Die Reisen von Max Slevogt und Paul Klee«. Die Medienstation für Max Slevogt macht beispielsweise dessen Illustrationen für das Buch »Ali Baba und die 40 Räuber« erlebbar. Die zweite Medienstation zeigt Fotografien orientalischer Landschaften, die Paul Klee zu seinen Werken inspiriert haben könnten.\n",
-    "institute": "Institut:   Institut für Software- und Multimediatechnik",
+    "institute": "Institut für Software- und Multimediatechnik",
     "supervisors": [
       "Prof. Dr.-Ing. habil. Rainer Groh",
       "Dipl.-Medieninf. Esther Lapczyna"
@@ -413,7 +413,7 @@
       "Robert Morawa"
     ],
     "content": "Nornir ermöglicht es, semantische Datensätze an einem Touchdisplay ohne Vorwissen zu explorieren. Dargestellt werden in diesem Fall aufbereitete Informationen der Wikipedia im Bezug zur Zeit. Auf einem Multitouch-Tisch kann der Nutzer das semantische Netzwerk ohne weitere Hilfsmittel oder Kenntnisse über die Programmiersprachen erkunden.\nAuf diese Weise ist es möglich, verblüffende Erkenntnisse gewinnen und Beziehungsgeflechte erkunden. Der Vorteil liegt darin, alle Daten auf einen Blick zur Verfügung zu haben und nach Klassen und Beziehungen einfach filtern zu können. Beispielsweise lassen sich so alle Künstler und Autoren anzeigen, die von Albert Einstein beeinflusst worden, oder welche Physiker in Cambridge, England wohnhaft waren.\n",
-    "institute": "Institut:   Professur für Multimedia-Technologie, Institut für Software- und Multimediatechnik",
+    "institute": "Professur für Multimedia-Technologie, Institut für Software- und Multimediatechnik",
     "supervisors": [
       "Ulrike Kister (M.Sc.)",
       "Dr.-Ing. Annett Mittschick",
@@ -433,7 +433,7 @@
       "Thomas Kissinger"
     ],
     "content": "Der Sonderforschungsbereich “Highly Adaptive Energy-Efficient Computing” (HAEC) untersucht neue Wege, den Energieverbrauch bei schwankendem Ressourcenbedarf auf Hard- und Softwareseite zu minimieren. Dafür sollen ein integrierter Ansatz zur Entwicklung hochadaptiver energieeffizienter Systeme, der alle Ebenen moderner und hochparalleler Systeme umfasst, entwickelt werden.  In dem projektübergreifenden Demonstrator HAECubie, ein System bestehend aus 30 Cubieboards, möchten wir die bisher entwickelte Konzepte am Beispiel einer verteilten Videoplattform demonstrieren.\n",
-    "institute": "Institut:   Software- und Multimediatechnik (SMT), Systemarchitektur (SyA)",
+    "institute": "Software- und Multimediatechnik (SMT), Systemarchitektur (SyA)",
     "supervisors": [
       "Projektwebseite:   http://tu-dresden.de/sfb912"
     ]
@@ -463,7 +463,7 @@
       "Eric Winter (ifak system)"
     ],
     "content": "In der industriellen Automation gibt es verschiedene Programmiersprachen, die sich zum Teil wesentlich von den allseits bekannten textbasierten Sprachen unterscheiden. Eine davon ist die Funktionsbausteinsprache. Im Rahmen dieses Workshops soll ein kleiner Einblick in die Möglichkeiten dieser Art der Programmierung gegeben werden und ein Demonstrator programmiert werden.\nZur grafischen Programmierung wird der EVAS Editor verwendet. Dieser bietet auch die Möglichkeit, das erstellte Programm direkt auf ein ARM basiertes industrielles Steuerungsmodul zu laden und das erstellte Programm darauf zu testen.\n",
-    "institute": "Institut:   Institut für Angewandte Informatik",
+    "institute": "Institut für Angewandte Informatik",
     "supervisors": [
       "Stefan Mätzler"
     ]
@@ -477,7 +477,7 @@
       "Rascha Allwardt"
     ],
     "content": "Als elastische Displays werden verformbare Anzeigeflächen bezeichnet, welche ein Vielzahl an Interaktionstechniken miteinander vereinen. Zoomen, Filtern oder auch Fokussieren von Objekten stellen eine kleine Auslese von Beispielen für mögliche Interaktionen dar. Mittels der Verformung der Oberfläche lassen sich mehrdimensionale Datenräume erforschen und vielfältige, komplexe Aktionen ausführen. Im Rahmen des Projektes wurde ein Interfacekonzept  zur Interaktion mit geschichteten Daten erarbeitet. Ziel ist es, dem Nutzer ein intuitives Explorieren des Datenraumes zu ermöglichen und Zusammenhänge zwischen einzelnen Datenschichten zu visualisieren.\n",
-    "institute": "Institut:   Institut für Software- und Multimediatechnik, Lehrstuhl für Mediengestaltung",
+    "institute": "Institut für Software- und Multimediatechnik, Lehrstuhl für Mediengestaltung",
     "supervisors": [
       "Mathias Müller",
       "Sebastian Walther"
@@ -493,7 +493,7 @@
       "Tobias Günther"
     ],
     "content": "Es werden verschiedene Interface- und Interaktionskonzepte für die Darstellung zusätzlicher Informationen in Augmented Reality (AR) und Virtual Reality (VR)-Szenarien präsentiert. Dies zum Einen verschiedene Konzepte zur Informationsvisualisierung und Interaktion im Kontext von Lernszenarien im industriellen Kontext. Weiterhin wird die Umsetzung eines Augmented Virtuality Ansatzes mit der Oculus Rift vorgestellt. Zielstellung war es, zu untersuchen, ob eine Beeinflussung des Bewusstseinszustand stattfindet, wenn die 3D-Umgebung mit einem Videostream des eigenen Körpers überlagert wird. Weiterhin werden Konzepte zur Interaktion mit AR / VR- Inhalten mittels Gesten vorgestellt und können am Projektstand ausprobiert werden.\n",
-    "institute": "Institut:   Institut für Software- und Multimediatechnik, Lehrstuhl für Mediengestaltung",
+    "institute": "Institut für Software- und Multimediatechnik, Lehrstuhl für Mediengestaltung",
     "supervisors": [
       "Ingmar Franke",
       "Thomas Gründer",
@@ -513,7 +513,7 @@
       "Marc Löchner"
     ],
     "content": "Assistenzsysteme können bei der Nutzung komplexer Maschinen und Anlagen unterstützen. Die Konzeption des User Interfaces spielt dabei eine entscheidende Rolle für Usability und User Experience im Umgang mit dem System. Am Beispiel eines Assistenzsystemen für einen Mähdrescher  werden 3 verschiedene Interfacekonzepte vorgestellt.\n",
-    "institute": "Institut:   Institut für Software- und Multimediatechnik",
+    "institute": "Institut für Software- und Multimediatechnik",
     "supervisors": [
       "Anja Knöfel"
     ]
@@ -549,7 +549,7 @@
       "David Mader; IBB: Cornell Weller"
     ],
     "content": "Die Nachwuchsforschergruppe ADFEX − Adaptive föderative 3D-Exploration mit Multi-Roboter-Systemen − verfolgt das sehr ambitionierte Ziel, räumliche Informationen zu unbekannten großflächigen Umgebungen schnell und zuverlässig zu erfassen, zu verarbeiten und weiterzugeben. Dreidimensionale räumliche Erkundungen sollen von einer Flotte aus mehreren Flugrobotern durchgeführt werden. Diese Flugroboter werden mit unterschiedlichen Sensoren wie Laserscanner, hochauflösende Kameras oder Wärmebildkameras ausgestattet und agieren teilautonom. Das bedeutet, sie werden über eine einfache Bedienkonsole koordiniert und gesteuert. Als Pilotanwendung ist das Erkennen von Bauschäden an schwer zugänglichen Objekten (wie etwa Brücken) vorgesehen. Durch den Einsatz derartiger kooperierender Multi-Roboter-Systeme können Raumerkundungen automatisiert, stark vereinfacht und in stark verbesserter Qualität durchgeführt werden.\n",
-    "institute": "Institut:   Automatisierungstechnik (AT), Mikrorechner (MR), Computergraphik und Visualisierung (CGV), Photogrammetrie (IPF), Baubetriebswesen (IBB)",
+    "institute": "Automatisierungstechnik (AT), Mikrorechner (MR), Computergraphik und Visualisierung (CGV), Photogrammetrie (IPF), Baubetriebswesen (IBB)",
     "supervisors": [
       "Projektwebseite:   http://www.adfex.eu"
     ]
@@ -577,7 +577,7 @@
       "Thomas Kühn"
     ],
     "content": "\nDie Hauptarbeit eines Wissenschaftlers besteht darin, zu lesen, zu schreiben und zu organisieren. In diesem Vortrag widmen wir uns dem Schreiben, welches geprägt ist von einer Vielzahl von Werkzeugen und Dateiformaten. Diese vielen Arten Wissen zu speichern führt dazu, dass wir uns im Alltag viel zu häufig mit der Suche, der Aktualisierung sowie des Kopierens von Texten beschäftigen.\nDoch der Wissenschaftler von Heute kann diese Probleme mit Hilfe von Multimarkdown sowie pandoc leicht umgehen, um nicht nur wissenschaftlichen Arbeiten, sondern auch Aufgabenstellungen, Lehrveranstaltungen mit Multimarkdown zu erstellen.\n",
-    "institute": "Institut:   Software- und Multimediatechnologie",
+    "institute": "Software- und Multimediatechnologie",
     "supervisors": [
       ""
     ]
@@ -591,7 +591,7 @@
       "Ellen Wieland"
     ],
     "content": "In ubiquitären Umgebungen gibt es oft verschiedene Sichten für eine Anwendung verteilt auf mehrere Displays, die stark in Größe und Interaktivität variieren – vom Smartphone mit Multi-Touch-Oberfläche bis zur passiven Großprojektion. Werden in einem System verschiedene Display-Arten kombiniert, erfordert dies neue Konzepte zur Interaktion und Informationsdarstellung. Besonders interessant ist dabei der Aspekt, wie verschiedene Arten von Informationen – persönliche gegenüber öffentlichen Informationen – dargestellt werden und welche Auswirkungen dies auf die Interaktion der Nutzer mit dem System hat. Als Grundlage für eine prototypische Umsetzung des entwicklten Konzeptes dient ein Szenario aus dem\nEinzelhandel: Entwickelt wurde eine Anwendung zur Produktkonfiguration von Bekleidung, welche über ein stationäres Multi-Touch-Display und die Smartphones der Kunden bedient werden kann.\n",
-    "institute": "Institut:   Software- und Multimediatechnik",
+    "institute": "Software- und Multimediatechnik",
     "supervisors": [
       "Dipl.-Medieninf. Mandy Korzetz",
       "Frank Lamack",
@@ -607,7 +607,7 @@
       "Ronny Herzog"
     ],
     "content": "Im Rahmen des Forschungsseminars Mediengestaltung zum Thema “Interaktive Gemälde” wird der Zusammenhang zwischen Betrachtungsbewegung und Gemäldegeometrie untersucht.\n",
-    "institute": "Institut:   Institut für Software- und Multimediatechnik",
+    "institute": "Institut für Software- und Multimediatechnik",
     "supervisors": [
       "Dipl.-Medieninf. Franziska Hannß"
     ]
@@ -624,7 +624,7 @@
       "Fabian Tolkmitt"
     ],
     "content": "\nZukünftige Softwaresysteme sehen sich mit einer wachsenden Komplexität und kontextabhängigen Dynamik konfrontiert.\nEin Ansatz, diese Systeme der Zukunft zu entwickeln, ist die Verwendung von Rollen zur Modellierungs- und Ausführungszeit. Dabei reduzieren Rollen die Komplexität und gleichzeitig erhöhen sie die Flexibilität der Anwendungen.\nDiese Systeme werden im Graduiertenkoleg Rollenbasierte Software-Infrastrukturen für durchgängig-kontextsensitive Systeme (RoSI) untersucht.\nIn den letzten Jahren gab es einigen Fortschritt im Bereich der Programmiersprachen mit Rollen. ObjectTeams ist hier ein Beispiel dafür. Jedoch haben diese Sprachen ihre Stärken lediglich bei der Veränderung des Verhaltens von Objekten zur Laufzeit.\nEine geeignete, einheitliche Modellierung, ist jedoch bisher nicht verfügbar.\nGenau dieser, First Role Modeling Editors (FRaMED), wurde im Rahmen zweier Komplexpraktika entwickelt und in einer studentischen Arbeit um Codegenerierung für Object Teams / Java erweitert.\nBesucher können damit erstmals graphisch mit Rollen modellieren und damit die Programme der Zukunft entwerfen.\n",
-    "institute": "Institut:   Software- und Multimediatechnologie",
+    "institute": "Software- und Multimediatechnologie",
     "supervisors": [
       "Thomas Kühn"
     ]
@@ -640,7 +640,7 @@
       "Stefan Fibig"
     ],
     "content": "Im Rahmen des ESF-geförderten Projektes KoSEL entstand eine virtuelle Lernumgebung, in welcher Schüler wichtige Kompetenzen für den erfolgreichen Einstieg in das Studium erproben können.\nDiese virtuelle Welt wurde in einen regulären E-Learningkurs in OPAL integriert, mit dem Ziel, wichtige Ausschnitte des Lernens und Arbeitens an der Universität zu erläutern bzw. transparent zu machen. Dabei ist einerseits ein Schwerpunkt, die Veranstaltungsform der Vorlesung als wichtigste Instanz zur Wissensvermittlung in der Universität zu erörtern. Andererseits wird das Seminar als zweite große Lehr-Lernform vorgestellt. Beide Schwerpunkte werden dabei nicht nur theoretisch beleuchtet, sondern mit Hilfe verschiedenster Medien praktisch umgesetzt. Dazu werden realistische Arbeitsaufgaben gestellt.\n",
-    "institute": "Institut:   Institut für SMT, AG DIL",
+    "institute": "Institut für SMT, AG DIL",
     "supervisors": [
       "Michael Rudolph"
     ]
@@ -655,7 +655,7 @@
       "Daniel Bösel"
     ],
     "content": "Am Lehrstuhl für Multimedia-Technologie steht seit vergangenen August die mit 12 qm größte interaktive Display-Wand Europas.\nIm Rahmen eines Komplexpraktikums im Wintersemester 2013/2014 wurde für diese Wand das kooperative Multiplayer-Spiel “Break Block Mountain” entwickelt. Die Aufgabe der Spieler ist es, Bergarbeiter aus einer dunklen Höhle zu retten. Dazu stehen ihnen verschiedene Werkzeuge zur Verfügung. Die Interaktion erfolgt mittels Berührung und Tangibles.\n",
-    "institute": "Institut:   Institut für Software- und Multimediatechnik",
+    "institute": "Institut für Software- und Multimediatechnik",
     "supervisors": [
       "Dipl.Inf. Ulrich von Zadow",
       "Prof. Raimund Dachselt"
@@ -670,7 +670,7 @@
       "Jan Polowinski"
     ],
     "content": "Die RDFS/OWL Visualisation Language (RVL) ermöglicht die kompakte Beschreibung von Visualisierungen für Daten in den Semantik-Web-Sprachen RDFS und OWL. In den Ausgangsdaten vorhande Relationen wie “kennt” ,”ist-teil-von” “kostet” etc. können auf graphische Mittel wie Form, Farbe abgebildet werden.\nBesucher können vorhandene (oder mitgebrachte) Testdaten mit Hilfe einer prototypischen Implementierung eines RVL-Interpreters visualisieren lassen.\n",
-    "institute": "Institut:   Software- und Multimediatechnik",
+    "institute": "Software- und Multimediatechnik",
     "supervisors": [
       "Jan Polowinski"
     ]
@@ -684,7 +684,7 @@
       "Till Kolditz"
     ],
     "content": "Künftige Fertigungsprozesse integrierter Schaltkreise werden – bis zu einem gewissen Grad – immer kleinere Transistoren produzieren. Aufgrund ihrer physikalischen Eigenschaften werden Transistoren mit abnehmender Strukturbreite immer anfälliger für äußere Einflüsse wie Hitze, Spannungsschwankungen der Stromversorgung, oder aber auch kosmischer Strahlung. Dies wiederum bewirkt, dass der Zustand einzelner Transistoren unerwünscht ändert und dadurch die entsprechenden Bits \\”flippen\\”. Da Datenspeicher – in Form von Arbeitsspeicher oder On-Chip Cache – Unmengen an Transistoren benötigen, werden vor allem diese für Bitflips anfällig sein.\nIm Bereich Datenbanken werden die verwalteten Daten mittlerweile fast ausschließlich im Arbeitsspeicher gehalten und es wird immer versucht eine konsistente Sicht auf die in der Datenbank modellierte Miniwelt sicherzustellen. Durch die oben beschriebenen Effekte ist es nun in Zukunft nötig Fehlererkennungs- und Korrekturmechanismen zu entwerfen, die mächtiger sind als derzeitiger ECC-RAM, da bei diesem bisher nur ein oder wenige veränderte Bits je 8 Byte Datenwort erkennbar sind. In dieser Demonstration werden die Auswirkungen zufälliger RAM-Fehler auf Datenbank-Indizes aufgezeigt. Dieses Projekt ist Teil des SREX-Projekts.\n",
-    "institute": "Institut:   Systemarchitektur",
+    "institute": "Systemarchitektur",
     "supervisors": [
       "Dr.-Ing. Dirk Habich"
     ]
@@ -704,7 +704,7 @@
       "Ellen Wieland"
     ],
     "content": "Zur Langen Nacht der Wissenschaften 2014 öffnen Dresdner Hochschulen, außeruniversitäre Forschungseinrichtungen und wissenschaftsnahe Unternehmen wieder ihre Häuser, Labore, Hörsäle und Archive für die Öffentlichkeit.\nMit der Android-App, die an der Juniorprofessur Software Engineering Ubiquitärer Systeme (SEUS) entwickelt wurde, sind die Besucher der Dresdner Wissenschaftsnacht allzeit gut informiert, um sich in der Fülle der angebotenen Veranstaltungen zurechtzufinden – zu Fuß oder mit den öffentlichen Verkehrsmitteln.\nDie mobile Anwendung bietet vielfältige Filtermöglichkeiten nach Interessen, Zeit, Ort, Alter etc. und ermöglicht so eine individuelle Planung vor und während der Wissenschaftsnacht. So können Touren ganz nach eigenen Wünschen geplant und jederzeit wieder geändert werden.\nDer mobile Begleiter wurde von SEUS seit der letzten Langen Nacht der Wissenschaft 2013 grundlegend überarbeitet und bietet verbesserte Funktionalitäten, Social Media-Features und eine umfassende Tourenplanung.\nDie App wurde im Rahmen der Forschungsprojekte SESAM, DYNAPSYS und DYNAMO an der Juniorprofessur SEUS zusammen mit studentischen Hilfskräften zur aktuellen Version weiterentwickelt. SESAM untersucht ubiquitäre Bildungs- und Informationssysteme aus informationstechnologischer Sicht. DYNAPSYS und DYNAMO fokussieren die Unterstützung der Fahrgäste bei der individuellen Tagesplanung mit dem öffentlichen Verkehr. Die Kombination verschiedener Aspekte aus der Forschung von SEUS macht die App zu einer spannenden Möglichkeit, Forschungsergebnisse direkt auszuprobieren.\nGefördert durch: die Europäische Union, Europäischer Sozialfonds, den Freistaat Sachsen und das Bundesministerium für Wirtschaft und Energie.\n",
-    "institute": "Institut:   Software- und Multimediatechnik",
+    "institute": "Software- und Multimediatechnik",
     "supervisors": [
       "Dipl.-Medieninf. Mandy Korzetz",
       "Dipl.-Medieninf. Romina Kühn",
@@ -735,7 +735,7 @@
       "Marcus Kirsch und Konstantin Klamka"
     ],
     "content": "Zu der erlesenen Gruppe französischer Gemälde in der Galerie Neue Meister gehört das Bild “Les deux amies” (Zwei Freundinnen) von Henri de Toulouse-Lautrec aus dem Jahr 1895. In der Kabinett-Ausstellung wird das jüngst umfassend restaurierte Bild gemeinsam mit Lithografien der Mappe “Elles” (Sie, 1896) aus dem Bestand des Kupferstich-Kabinetts gezeigt. Toulouse-Lautrec hatte sich Mitte der 1890er Jahre intensiv mit der Thematik der Pariser Halbwelt und der Bordelle auseinandergesetzt. Seine Darstellungen vom Milieu im Vergnügungsviertel am Montmartre, insbesondere seine Plakate, machten ihn als Künstler der “Belle Époque” um die Wende vom 19. zum 20. Jahrhundert bekannt. In vielen Gemälden, Zeichnungen und Lithografien stellte er in groß angelegten figürlichen Szenen sowie in porträthaften Einzeldarstellungen das rege Treiben einer bunt gemischten Gesellschaft in den Cafés und Cabarets, den Ateliers und Galerien, den Konzertsälen, Salons und Tanzlokalen dar.\nIm Mittelpunkt der Ausstellung stand das Gemälde “Zwei Freundinnen” (“Les deux amies”) von Henri de Toulouse-Lautrec (1864-1901) aus dem Jahr 1895, das zur erlesenen Gruppe französischer Gemälde der Galerie Neue Meister gehört. Nach abgeschlossener Restaurierung war es erstmals seit der Wiederöffnung des Albertinums in der Galerie Neue Meister zu sehen. Das auf Pappe ausgeführte Werk war vor dem Erwerb für Dresden 1925 auf eine parkettierte Holzplatte aufgeleimt und nachträglich gefirnisst worden. Dieser für Werke Toulouse-Lautrecs unübliche Firniss ist, so weit wie möglich, entfernt und aus der Pappe extrahiert worden. Die ursprüngliche farbliche und räumliche Wirkung konnte so im Wesentlichen zurückgewonnen werden.\nFür die Ausstellung Peinture à l‘essence – Henri de Toulouse-Lautrec im Albertinum der Staatlichen Kunstsammlungen Dresden wurde eine interaktive Medienanwendung entwickelt, die es den Museumsbesuchern ermöglicht, die Maltechnik und den Erhaltungszustand gezielt auf einem Multi-Touch-Screen zu studieren.\n",
-    "institute": "Institut:   Software- und Multimediatechnik",
+    "institute": "Software- und Multimediatechnik",
     "supervisors": [
       "Prof. Rainer Groh"
     ]
@@ -752,7 +752,7 @@
       "Daniel Wuttig"
     ],
     "content": "Aktuell ist im Projektmanagement ein Trend von traditionellen Vorgehensmodellen hin zu agilen Ansätzen zu verzeichnen. Dieser zeigt sich in der Softwareentwicklung durch Scrum oder Kanban. Anwendungen zur Unterstützung dieser Methoden basieren vorwiegend, wie auch die Softwarelösungen im Bereich des traditionellen Projektmanagements, auf der Desktopmetapher. Dabei werden neue Möglichkeiten wie die natürliche Interaktion mittels Fingereingaben, die sich aus der technologischen Weiterentwicklung ergeben, nur unzureichend berücksichtigt. Diese bergen allerdings speziell für kollaborative Arbeits- bzw. Planungsszenarien vis-à-vis, die einen essentiellen Bestandteil der agilen Prinzipien darstellen, großes Potential. Im Projekt Vizamp geht es um die Untersuchung und Entwicklung von neuen und innovativen Visualisierungs- und Interaktionstechniken im Bereich des agilen Multi-Projektmanagements. Ziel ist es, die Projektarbeit insbesondere hinsichtlich der Projektplanung, dem Konfliktmanagement und der Durchführung von Projektmeetings zu unterstützen. Dabei wird außerdem untersucht, inwiefern Aspekte aus dem traditionellen (Top-down) und dem agilen (Bottom-up) Projektmanagement in einem Middle-Out-Ansatz kombiniert werden können. Vorgestellt wird der aktuelle Stand des Demonstrators, der in Zusammenarbeit mit der queo GmbH entwickelt wird.\n",
-    "institute": "Institut:   Software- und Multimediatechnik",
+    "institute": "Software- und Multimediatechnik",
     "supervisors": [
       "Mirko de Almeida Madeira Clemente"
     ]
@@ -768,7 +768,7 @@
       "Felipe Sousa"
     ],
     "content": "Ubiquitäre RFID/NFC-basierte Systeme wie etwa bargeldloses Bezahlen oder eTicketing finden immer mehr Verbreitung in der modernen Gesellschaft und sind somit keine reine Vision mehr. Trotz zahlreicher Vorteile stellen solche Systeme jedoch eine Reihe neuer Herausforderungen dar. Dabei sind die Aspekte der IT-Sicherheit und des Datenschutzes als einige der wichtigsten angesehen. Dieser Vortrag ist vor allem den Fragen des Datenschutzes in RFID/NFC-basierten Systemen gewidmet, wobei der Fokus auf ubiquitäre eTicketing-Systeme für den ÖPNV gelegt wird. Da der Datenschutz eng mit den Aspekten der IT-Sicherheit verbunden ist, wird im Vortrag ebenfalls auf diese eingegangen. Zusätzlich werden zwei Demos vorgestellt. Im ersten wird das kontaktlose Auslesen von Karteninformationen einer VISA-PayWave Karte über NFC  demonstriert.  Das zweite Demo stellt unseren Prototypen eines datenschutzfreundlichen\neTicketing-Systems für den ÖPNV dar.\n",
-    "institute": "Institut:   Institut für Systemarchitektur",
+    "institute": "Institut für Systemarchitektur",
     "supervisors": [
       "Prof. Dr. rer. nat. habil. Dr. h. c. Alexander Schill"
     ]
@@ -782,7 +782,7 @@
       "Bettina Kirchner"
     ],
     "content": "Im Bereich des Projektmanagements dienen Meetings dem umfangreichen Informationsaustausch und der Organisation von Teamarbeit. Dabei entstehen projektbezogene Inhalte, die auf vorherigen Inhalten aufbauen. Diese dienen im weiteren Projektverlauf als Entscheidungs- und Arbeitsgrundlage, wobei häufig die Betrachtung der Aufzeichnungen mehrerer Meetings nötig ist. Der Meeting-übergreifende Informationsabruf wird derzeit allerdings kaum unterstützt. Das Ziel dieser Arbeit besteht in der Konzeption eines grafischen Browsers, der den Zugang zu Meeting-Inhalten über eine Folge von Meetings hinweg bereitstellt. Die eingehende Betrachtung von Meeting-Strukturen und Aufzeichungen, sowie deren Verwendung, liefert die Datengrundlage für ein solches Werkzeug. Bei den zugrundeliegenden Untersuchungen werden insbesondere textliche Meeting-Protokolle berücksichtigt, die nach wie vor die meistgenutzte Art der Informationssicherung von Gesprächen und Ergebnissen eines Meetings darstellen. Der Schwerpunkt des Konzepts liegt auf der Visualisierung der Inhalte und bestehender Meeting-übergreifender Zusammenhänge. Visualisierungsansätze aus dem Bereich des Text Mining werden bezüglich ihrer Eignung zur Abbildung der ermittelten Datengrundlage untersucht. Das weiterhin entwickelte Interaktionskonzept konzentriert sich auf konkrete Anwendungsfälle beim Informationsabruf von Meeting-Inhalten. Die technische Umsetzung des Konzepts als Webanwendung erfolgt unter Nutzung von HTML 5 und der JavaScript-Bibliothek D3.js.\n",
-    "institute": "Institut:   Institut für Software- und Multimediatechnik",
+    "institute": "Institut für Software- und Multimediatechnik",
     "supervisors": [
       "Prof. Dr.-Ing. habil. Rainer Groh",
       "Dipl.-Medieninf. Mirko de Almeida Madeira Clemente",
@@ -798,7 +798,7 @@
       "Alexander Fickel"
     ],
     "content": "Mit einem taktilen Hüftgürtel lassen sich Objekte im Raum erkennen, ohne andere Sinne zu nutzen. Angezeigt wird dabei die Richtung, die Distanz und der Typ eines Objektes. Der Gürtel wird über eine Android Anwendung halbautomatisch von einem Tablet gesteuert, indem Räume und die Position des Benutzers simuliert werden. Die entwickelten taktilen Muster haben in einer Pilotstudie mit 12 Probanden gute bis sehr gute Ergebnisse erzielen können. In Zukunft soll das System blinden Menschen helfen, sich besser in unbekannten Gebäuden zurechtzufinden.\n",
-    "institute": "Institut:   Angewandte Informatik, Mensch-Computer-Interaktion",
+    "institute": "Angewandte Informatik, Mensch-Computer-Interaktion",
     "supervisors": [
       "Limin Zeng"
     ]
@@ -829,7 +829,7 @@
       "HTW Dresden"
     ],
     "content": "F-A-S-T ist ein mit ESF-Mitteln gefördertes Pilotprojekt und beabsichtigt die Entwicklung und Erprobung eines postgradualen Bildungsangebotes. Ziel ist es, künstlerische, wissenschaftliche und technische Forschung und Umsetzung als Arbeitsschwerpunkte zu vernetzen. Gemeinsame Kommunikations-, Denk- und Handlungsmuster bilden die Grundlage, aus der heraus die Interdisziplinarität zwischen den Gebieten entwickelt wird.\n",
-    "institute": "Institut:   SMT",
+    "institute": "SMT",
     "supervisors": [
       "Projektwebseite:   http://f-a-s-t.io/"
     ]
@@ -843,7 +843,7 @@
       "Patrick Damme"
     ],
     "content": "Während sich das klassische relationale Datenmodell weiter Verbreitung erfreut, wird es von vielen EntwicklerInnen zunehmend als inflexibel empfunden. Es erlegt den NutzerInnen implizite Einschränkungen auf, die ihre Freiheit bei der Strukturierung der Daten begrenzen. Dazu zählen unter anderem die Zugehörigkeit jeder Entität und jedes Attributs zu genau einer Relation, die Festlegung genau eines Datentyps pro Attribut und die Forderung an Entitäten, genau die Attribute ihrer Relation zu instanziieren.\nDer Vortrag soll zunächst kurz in das in einer vorangegangenen Arbeit entstandene flexible Datenmodell FlexRel einführen. Dieses entitäts- statt schemaorientierte Modell bietet Lösungen für die oben genannten Probleme und erlaubt somit die Flexibilität, die heute in vielen Anwendungsgebieten gewünscht wird. Zugleich behält es die zahlreichen Vorteile des klassischen relationalen Modells bei. Durch das Constraint-Framework FlexCon haben die NutzerInnen zusätzlich die Möglichkeit, gezielt erwünschte Einschränkungen der Flexibilität vorzunehmen. Das Verhalten klassischer relationaler Datenbanken kann dabei als Spezialfall betrachtet werden.\nIm Rahmen einer studentischen Arbeit wurde dieses Datenmodell innerhalb des quelloffenen relationalen Datenbankmanagementsystems H2 implementiert. Das entstandene System soll im Vortrag vorgestellt und an ihm einige der Highlights von FlexRel und FlexCon praktisch demonstriert werden.\n",
-    "institute": "Institut:   Systemarchitektur",
+    "institute": "Systemarchitektur",
     "supervisors": [
       "Dr. Hannes Voigt"
     ]
@@ -878,7 +878,7 @@
       "Marcus Kirsch"
     ],
     "content": "Zusammen mit den Projektpartnern der queo GmbH und der Unister GmbH erforscht die Professur Mediengestaltung im Projekt VISEA neue Wege zur Exploration komplexer Informationsräume. Der Rahmen des Projektes erstreckt sich dabei von der Konzipierung geeigneter und intuitiver Benutzeroberflächen für die Produktsuche bis hin zur visuellen Unterstützung komplexer Analyse- und Entscheidungsszenarien. Gerade für unerfahrene Nutzer ohne Expertenwissen oder konkrete Zielvorstellungen zeigen heutige Suchsystemen mit einfachen Eingabemasken und Ergebnislisten erhebliches Verbesserungspotential.\nAn dem Projektstand werden die Projektmitglieder des VISEA-Teams Ergebnisse der Forschungsarbeit vorstellen. Besucher können diese an einer Reihe interaktiver Demonstratoren auf verschiedenen Plattformen selbst ausprobieren.\n",
-    "institute": "Institut:   Institut für Software- und Multimediatechnik",
+    "institute": "Institut für Software- und Multimediatechnik",
     "supervisors": [
       "Prof. Rainer Groh"
     ]
@@ -893,7 +893,7 @@
       "Annegret Stark"
     ],
     "content": "Das ESF-geförderte Projekt KoSEL verfolgt das Ziel, Schülerinnen und Schülern mit E-Learning-Kursen auf die Anforderungen eines Hochschulstudiums vorzubereiten. Innerhalb des Projekts sind 33 E-Learning-Kurse mit unterschiedlichen Lernthemen (vor allem aus dem MINT-Bereich) entstanden.\nDiese OPAL-Kurse wurden mit mehr als 2.300 sächsischen Schülerinnen und Schülern an Allgemeinbildenden und Beruflichen Gymnasien sowie Fachoberschulen erprobt. Aus den Kursdurchläufen wurden umfangreiche Evaluationsergebnisse und Erfahrungen für den Einsatz von E-Learning zur Studienorientierung gesammelt.\nAm Projektstand wird der OPAL-Kurs “Studis Life” gezeigt, der Schülerinnen und Schülern einen Einblick in das Leben und Arbeiten an einer Hochschule ermöglicht. Die Besonderheit dieses Kurses ist eine eingebundene 3D-Welt. Es gibt einen Vorlesungssaal und einen Seminarraum, welche von den Schülerinnen und Schülern betreten werden können. Im Vorlesungssaal hält ein Hochschullehrer eine Vorlesung und im Seminarraum können sich die Schülerinnen und Schüler für Besprechungen oder andere Zusammenarbeit treffen.\n",
-    "institute": "Institut:   SMT",
+    "institute": "SMT",
     "supervisors": [
       "Projektwebseite:   http://kosel.inf.tu-dresden.de/"
     ]
@@ -915,7 +915,7 @@
       "Klemens Muthmann"
     ],
     "content": "Eine ganze Stadt im kleinen.\n",
-    "institute": "Institut:   Systemarchitektur",
+    "institute": "Systemarchitektur",
     "supervisors": [
       "Klemens Muthmann"
     ]
