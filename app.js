@@ -7,13 +7,9 @@
 
         $http.get('data.json').success(function (contributions) {
             $scope.contributions = contributions;
-            // $scope.participantsMap = {};
-            // $scope.contributions.forEach(function (c) {
-            //     $scope.participantsMap[c.]
-            // })
-            //
         });
 
+        $scope.favorites = [];
         $scope.showDetailsFor = {};
         $scope.order = {};
 
@@ -38,9 +34,13 @@
             $scope.order.reverse = !$scope.order.reverse;
         };
 
-        // sort
+        $scope.getContributions = function () {
+            if ($scope.showOnlyFavorites) {
+                return $scope.favorites;
+            }
+            return $scope.contributions;
 
-        $scope.favorites = [];
+        }
 
     });
 
@@ -53,6 +53,7 @@
             replace: true,
             templateUrl: 'views/contribution-tpl.html',
             link : function (scope, el, attrs) {
+                
             }
         };
     });
