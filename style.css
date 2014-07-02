@@ -1,12 +1,16 @@
-section, .contrib-list, .contrib-item, .contrib-item, .contrib-meta, header {
+.contrib-list, .contrib-item, .contrib-item, .contrib-meta, header {
     display: flex;
 }
 
 .contrib-list {
-    margin-top: 60px;
+    height: 100vh;
+    box-sizing: border-box;
+    display: inline-flex;
+    padding-top: 60px;
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: flex-start;
+
 }
 
 .contrib-item {
@@ -76,6 +80,11 @@ a {
     cursor: pointer;
 }
 
+ul {
+    margin: 15px;
+    padding: 0;
+}
+
 .active {
     font-weight: 600;
 }
@@ -97,11 +106,6 @@ body {
     background-color: #eee;
     margin: 0;
     font-family: 'Avenir Next', 'Helvetica', 'sans-serif';
-}
-
-section {
-    height: 100vh;
-    flex-direction: column;
 }
 
 img {

@@ -39,7 +39,6 @@
                 return $scope.favorites;
             }
             return $scope.contributions;
-
         }
 
     });
@@ -53,7 +52,7 @@
             replace: true,
             templateUrl: 'views/contribution-tpl.html',
             link : function (scope, el, attrs) {
-                
+
             }
         };
     });

@@ -18,18 +18,25 @@
                         'fa-caret-down':order.property=='title' && order.reverse == true,
                         'fa-caret-up':order.property=='title' && order.reverse == false}">
                     </i>
-                    Title</a> |
+                    Title
+                </a> |
+
                 <a ng-click="orderBy('date')">
                     <i class="fa" ng-class="{
                         'fa-caret-down':order.property=='date' && order.reverse == true,
                         'fa-caret-up':order.property=='date' && order.reverse == false}">
                     </i>
-                    Date</a>
+                    Date
+                </a>
             </div>
             <input placeholder="Search…" ng-model="search" />
             <div>
-                <a ng-click="showOnlyFavorites = false" ng-class="{'active': !showOnlyFavorites}">All ({{contributions.length}})</a> |
-                <a ng-click="showOnlyFavorites = true" ng-class="{'active': showOnlyFavorites}">Favorites ({{favorites.length}})</a>
+                <a ng-click="showOnlyFavorites = false" ng-class="{'active': !showOnlyFavorites}">
+                    All ({{contributions.length}})
+                </a> |
+                <a ng-click="showOnlyFavorites = true" ng-class="{'active': showOnlyFavorites}">
+                    Favorites ({{favorites.length}})
+                </a>
             </div>
         </header>
 
