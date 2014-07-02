@@ -7,10 +7,17 @@
 
         $http.get('data.json').success(function (contributions) {
             $scope.contributions = contributions;
+            // $scope.participantsMap = {};
+            // $scope.contributions.forEach(function (c) {
+            //     $scope.participantsMap[c.]
+            // })
+            //
         });
 
         $scope.showDetailsFor = {};
         $scope.order = {};
+
+
 
         $scope.star = function (contribution) {
             $scope.favorites.push(contribution);
@@ -43,6 +50,7 @@
     module.directive('contribution', function () {
         return {
             restrict: 'E',
+            replace: true,
             templateUrl: 'views/contribution-tpl.html',
             link : function (scope, el, attrs) {
             }

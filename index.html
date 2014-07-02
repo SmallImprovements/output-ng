@@ -3,14 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <script charset="utf-8" src="bower_components/angular/angular.js"></script>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/lib/css/font-awesome.css">
     <title>OutputDD</title>
 </head>
 <body ng-app="app">
 
     <section ng-controller="AppController">
-        Search: <input ng-model="search" />
 
-        <div><a ng-click="orderBy('date')">Date</a> <a ng-click="orderBy('title')">Title</a></div>
+        <nav>Sort by:
+            <a ng-click="orderBy('title')">
+                <i class="fa" ng-class="{
+                    'fa-caret-down':order.property=='title' && order.reverse == true,
+                    'fa-caret-up':order.property=='title' && order.reverse == false}">
+                </i>
+                Title</a> |
+            <a ng-click="orderBy('date')">
+                <i class="fa" ng-class="{
+                    'fa-caret-down':order.property=='date' && order.reverse == true,
+                    'fa-caret-up':order.property=='date' && order.reverse == false}">
+                </i>
+                Date</a>
+            <input placeholder="Search..." ng-model="search" />
+        </nav>
+
+
 
         <ul>
             <li ng-repeat="c in favorites">{{c.title}}
@@ -18,8 +35,9 @@
             </li>
         </ul>
 
-        <contribution ng-repeat="c in contributions | filter: search | orderBy: order.property: order.reverse"></contribution>
-
+        <div class="contrib-list">
+            <contribution ng-repeat="c in contributions | filter: search | orderBy: order.property: order.reverse"></contribution>
+        </div>
 
     </section>
 

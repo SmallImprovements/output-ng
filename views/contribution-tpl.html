@@ -1,7 +1,20 @@
-<div>
-    <img ng-src="{{c.img}}" alt="" /> {{c.title}} {{c.date}}
-        <a ng-hide="c.isFavorite" ng-click="star(c)">STAR!</a>
-        <a ng-show="c.isFavorite" ng-click="unstar(c)">UNSTAR!</a>
+<div class="contrib-item">
+    <div class="contrib-preview">
+        <img ng-src="{{c.img}}" alt="" /> {{c.title}} {{c.participants.length}} {{c.date}}
+
+        <a ng-hide="c.isFavorite" ng-click="star(c)"><i class="fa fa-star-o"></i></a>
+        <a ng-show="c.isFavorite" ng-click="unstar(c)"><i class="fa fa-star"></i></a>
         <a ng-click="toggleDetails(c)">Details</a>
-    <div ng-if="showDetailsFor[c.href]">{{c.content}}</div>
+    </div>
+
+    <div ng-if="showDetailsFor[c.href]" class="contrib-details">
+        <ul>
+            <li>Participatns: <span>{{c.participants.join(', ')}}</span></li>
+            <li>Supervisors: <span>{{c.supervisors.join(', ')}}</span></li>
+            <li>Institute: {{c.institute}}</li>
+            <li>Link: <a ng-href="{{c.href}}">{{c.href}}</a></li>
+        </ul>
+        Content: <br>
+        {{c.content}}
+    </div>
 </div>

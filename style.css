@@ -1,0 +1,36 @@
+section, .contrib-list, .contrib-item, .contrib-item {
+    display: flex;
+}
+
+.contrib-list {
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.contrib-item {
+    background-color: white;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0 0 10px;
+    display: flex;
+}
+
+.contrib-item {
+    width: 200px;
+    flex-direction: column;
+}
+
+.contrib-details {
+    width: 600px;
+}
+
+body {
+    background-color: #eee;
+    margin: 0;
+    font-family: 'Avenir Next', 'Helvetica', 'sans-serif';
+}
+
+section {
+    height: 100vh;
+    flex-direction: column;
+}
