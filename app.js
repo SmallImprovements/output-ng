@@ -14,7 +14,6 @@
         $scope.order = {};
 
 
-
         $scope.star = function (contribution) {
             $scope.favorites.push(contribution);
             contribution.isFavorite = true;
@@ -26,7 +25,7 @@
         }
 
         $scope.toggleDetails = function (contrib) {
-            $scope.showDetailsFor[contrib.href] = !$scope.showDetailsFor[contrib.href]
+            $scope.showDetailsFor[contrib.href] = !$scope.showDetailsFor[contrib.href];
         };
 
         $scope.orderBy = function (property) {
